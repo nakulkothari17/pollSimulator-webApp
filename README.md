@@ -1,8 +1,18 @@
 # pollSimulator-webApp
-The project is made using ReactJs with redux store.
-In this project you can find Html and css in View folder.
-In model folder there are javascript for candidate,poll and vote.
-In features folder containing subfolder forcounter java script.
+The project is made using ReactJs with redux store.<br>
+In this project you can find Html and css in View folder.<br>
+In model folder there are javascript for candidate,poll and vote.<br>
+In features folder containing subfolder forcounter java script.<br>
+
+## How to use
+
+1. Clone this repository in your local system.<br>
+2. As node modules are not installed in it so firstly you have to open that folder where you cloned and then you have to write a command in terminal "npm install".<br>
+3. In order to run the project type "npm start" in the command prompt.<br>
+
+Note: You have to enter a candidate name in order to let people vote him/her.<br>
+While voting your vote will be counted but who voted whom will not be saved anywhere.<br> 
+But which candidate recieved how many number of votes would be saved and can be viewed in the voting summary.<br>
 
 ## Screenshots
 
