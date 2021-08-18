@@ -1,0 +1,49 @@
+body{
+    padding-top: 60px;
+    padding-bottom: 40px;
+    }
+    .pageLayout{
+        display: flex;
+        flex-direction: column;
+        height: 561px;
+        justify-content: center;
+        align-items: center;
+    }
+    .fixed-header
+    {
+    width: 100%;
+    position: fixed;
+    background: #333;
+    padding: 10px 0;
+    color: #fff;
+    }
+    .fixed-header{
+    top: 0;
+    }
+    .container{
+    width: 80%;
+    margin: 0 auto;
+    }
+    .textLink{
+    text-decoration: none;
+    color: #fff;
+    padding: 7px 25px;
+    display: inline-block;
+    }
+    .textLink:hover{
+        color: chocolate;
+    }
+h1{
+    color: #333;
+}
+h4{
+    color: #333;
+}
+label{
+    color: #333;
+}
+input[
+    type = radio
+]{
+    color: #333;
+}
